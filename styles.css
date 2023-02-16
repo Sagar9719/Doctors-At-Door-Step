@@ -5,7 +5,7 @@
 
 }
 .home{
-	background: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.3)),url(doctor.jpg)no-repeat;
+	background: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.3)),url(images1/doctor.jpg)no-repeat;
 	background-size: 100% 100%;
 	width: 100%;
 	padding: 180px 0;
@@ -44,7 +44,7 @@ li:hover{
 }
 
 .navbar-nav{
-   background-color: green;
+   background-color: rgb(255, 255, 255);
 	font-size: large;
 }
 .navbar-collapse {
